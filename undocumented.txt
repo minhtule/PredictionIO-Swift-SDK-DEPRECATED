@@ -1,0 +1,3 @@
+NSURL.h
+	class NSURL : NSObject, NSSecureCoding, NSCoding, NSCopying
+	class NSURLComponents : NSObject, NSCopying
